@@ -1,0 +1,26 @@
+{
+  "name": "ws-code",
+  "version": "1.0.0",
+  "description": "a websocket server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doniyang/ws-code.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "niyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doniyang/ws-code/issues"
+  },
+  "homepage": "https://github.com/Doniyang/ws-code#readme",
+  "dependencies": {
+    "ws": "^3.2.0"
+  }
+}
